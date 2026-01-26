@@ -1,0 +1,7 @@
+{
+  "name": "Quille en Poème - Digital Patisserie",
+  "description": "An Impressionist pastry design studio that transforms poetic text and botanical references into edible spatula-work masterpieces with precise color-mixing guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
